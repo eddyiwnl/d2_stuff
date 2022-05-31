@@ -1,0 +1,1 @@
+pyinstaller --hidden-import mouse --hidden-import keyboard --onefile -w .\d2_buy_sell.py
